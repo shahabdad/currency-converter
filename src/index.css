@@ -1,0 +1,43 @@
+
+.dropdown-container {
+    margin: 10px 0;
+  }
+  
+  .dropdown-container select {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  .flag-img {
+    margin-left: 10px;
+    width: 24px;
+    height: 16px;
+  }
+  
+  .container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(9, 0, 255, 0.1); 
+    border-radius: 8px;
+    color: white;
+  }
+  
+  h4, h5 {
+    color: white;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: rgb(194, 35, 35);
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
